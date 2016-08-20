@@ -1,12 +1,9 @@
- """"
+""""
 Author: Shanmugarajan
 
 This is a simple generic REST client. 
 Currently it doesn't support authentication (avoided it for simplicity)
 but we can implement a authenticator class based on the authentication needed in the server
-
-This code is developed for Videobeat interview. Just to show the coding quality. Do not use it any where else.
-
 
 If you run this file then it will get the data from the following url and will print it.
 
